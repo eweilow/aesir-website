@@ -1,10 +1,10 @@
-![Netlify Status](https://api.netlify.com/api/v1/badges/858bb367-eb19-427b-b9c7-931472045c98/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b1ef0a4-d88f-43ad-93a3-a3fb742a5563/deploy-status)](https://app.netlify.com/sites/aesir-website/deploys)
 
-![Build Status](https://travis-ci.org/aesirkth/website.svg?branch=master)
+![Build Status](https://travis-ci.org/eweilow/aesir-website.svg?branch=master)
 
 # ÆSIR Website
 
-This is the repository of the website of ÆSIR - Association of Engineering Students in Rocketry. Improvements are welcome!
+This is the old website of ÆSIR - Association of Engineering Students in Rocketry.
 
 ## Requirements to run
 
